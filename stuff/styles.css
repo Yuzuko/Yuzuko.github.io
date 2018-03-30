@@ -1,0 +1,31 @@
+body {
+	background-color:#1a1a1a;
+}
+
+p {
+	color:#fff9e5;
+}
+
+h1 {
+	color:#ff5858
+}
+
+h2 {
+	color:#ff5858;
+}
+
+h3  {
+	color:#ff5858;
+}
+
+li {
+	color:#fff9e5;
+}
+
+a:link {
+	color:#ff5858;
+}
+
+a:visited {
+	color:#9bfff5;
+}
